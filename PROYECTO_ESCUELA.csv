@@ -1,0 +1,16 @@
+estudiante_ID;edad;genero;materia_favorita;paralelo
+1;10;F;matematica;A
+2;12;F;lenguaje ;A
+3;9;M;lenguaje ;B
+4;10;F;ciencias;B
+5;13;M;matematicas ;A
+6;12;M;ciencias ;B
+7;11;M;ciencias;A
+8;11;F;lenguaje ;A
+9;10;M;matematicas ;A
+10;9;F;matematicas ;B
+11;12;F;lenguaje ;B
+12;12;F;ciencias ;A
+13;10;M;lenguaje ;B
+14;11;F;ciencias ;B
+15;10;F;ciencias ;B
